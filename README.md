@@ -1,1 +1,1 @@
-# common_cgi
+# Common CGI C Implemetion
